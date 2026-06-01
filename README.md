@@ -1,7 +1,7 @@
 # 🏥 Hospital Analytics System
 
 A comprehensive SQL-based Hospital Analytics System built using MySQL to manage, monitor, and analyze hospital operations. The project simulates a real-world healthcare database and provides insights into patient management, appointments, billing, admissions, prescriptions, insurance, and revenue analytics.
-
+---
 ## 📌 Project Objectives
 
 - Design a scalable relational database for hospital management.
@@ -10,7 +10,7 @@ A comprehensive SQL-based Hospital Analytics System built using MySQL to manage,
 - Demonstrate advanced database concepts such as Views, Stored Procedures, Triggers, and Window Functions.
 - Provide a foundation for future BI dashboards and healthcare analytics solutions.
 
-
+---
 ## 🛠️ Technologies Used
 
 - **MySQL**
@@ -19,7 +19,7 @@ A comprehensive SQL-based Hospital Analytics System built using MySQL to manage,
 - Relational Database Design
 - Data Analytics & Reporting
 
-
+---
 ## 📂 Project Structure
 
 ```text
@@ -35,7 +35,7 @@ Hospital-Analytics-System/
 └── ER_Diagram.png
 ```
 
-
+---
 
 ## 🗄️ Database Modules
 
@@ -96,7 +96,7 @@ The system consists of the following core entities:
 - Appointment Analysis
 - Billing Insights
 - Medicine Utilization Reports
-
+---
 ## 🚀 Key Features
 
 ✅ Patient Record Management
@@ -119,6 +119,7 @@ The system consists of the following core entities:
 
 ✅ Automated Business Logic using Triggers
 
+---
 
 ## 📈 Sample Analytics Reports
 
@@ -148,7 +149,7 @@ The system consists of the following core entities:
 - Web-Based Hospital Management Portal
 - Real-Time Reporting Dashboard
 - Role-Based Access Control
-
+---
 
 ## 🎯 Learning Outcomes
 
@@ -164,6 +165,3 @@ Through this project, the following database concepts were implemented and pract
 
 ---
 
-## 👨‍💻 Author
-
-Developed as a Database Analytics Project to demonstrate SQL, database design, and healthcare analytics capabilities.
