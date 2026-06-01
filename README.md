@@ -1,6 +1,7 @@
 # 🏥 Hospital Analytics System
 
 A comprehensive SQL-based Hospital Analytics System built using MySQL to manage, monitor, and analyze hospital operations. The project simulates a real-world healthcare database and provides insights into patient management, appointments, billing, admissions, prescriptions, insurance, and revenue analytics.
+
 ---
 ## 📌 Project Objectives
 
